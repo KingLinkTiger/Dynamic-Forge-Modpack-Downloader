@@ -1,4 +1,4 @@
-﻿$JSONFile = @(
+$JSONFile = @(
     [pscustomobject]@{
         Type="Mod";
         Name="Just Enough Resources";
@@ -33,6 +33,12 @@
         Type="Mod";
         Name="Morpheus";
         ProjectID="69118";
+        MinecraftVersion="1.16.5"
+    },
+    [pscustomobject]@{
+        Type="Mod";
+        Name="WTHIT Forge Edition";
+        ProjectID="455982";
         MinecraftVersion="1.16.5"
     },
     [pscustomobject]@{
