@@ -75,6 +75,7 @@
     ToDo
     - Make script use external JSON file for mods and configs
     - Add versioning checks to the config download. Currently it downloads every time...
+    - Add the ability to customize the MultiMC Instance icon (Default path is .minecraft/icon.png)
 #>
 
 function Get-Mod{
